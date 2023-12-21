@@ -16,6 +16,7 @@ body{
     box-shadow: 10px 5px 5px black;
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(151,163,240,1) 26%, rgba(131,146,250,1) 84%);
     border-radius: 50px;
+    margin-bottom: 15px;
 }
 .menu1{
     width:20%;
