@@ -7,7 +7,9 @@ body{
 .logo{
     font-family: comic sans ms;
     text-align:center;
-    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    width:800px;
     height: 200px;
     padding-top:30px;
     font-size: 5vw;
